@@ -1,6 +1,6 @@
 {
   "name": "unstable_batchedupdates",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A wrapper for react unstable_batchedupdates, support react-dom and react-native",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/sky0014/unstable_batchedupdates.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "unstable_batchedupdates",
+    "batchedupdates",
+    "react-dom",
+    "react-native"
+  ],
   "author": "sky0014 <sky-wang@qq.com>",
   "bugs": {
     "url": "https://github.com/sky0014/unstable_batchedupdates/issues"
