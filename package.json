@@ -1,0 +1,33 @@
+{
+  "name": "unstable_batchedupdates",
+  "version": "1.0.2",
+  "description": "A wrapper for react unstable_batchedupdates, support react-dom and react-native",
+  "main": "index.js",
+  "scripts": {
+    "pub": "npm publish --registry=https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sky0014/unstable_batchedupdates.git"
+  },
+  "keywords": [],
+  "author": "sky0014 <sky-wang@qq.com>",
+  "bugs": {
+    "url": "https://github.com/sky0014/unstable_batchedupdates/issues"
+  },
+  "homepage": "https://github.com/sky0014/unstable_batchedupdates/#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {
+    "react-dom": ">=16.8",
+    "react-native": ">=0.59"
+  },
+  "peerDependenciesMeta": {
+    "react-dom": {
+      "optional": true
+    },
+    "react-native": {
+      "optional": true
+    }
+  }
+}
